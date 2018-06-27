@@ -1,1 +1,1 @@
-# 2018 R-Ladies Taipei Playing Kaggle Togther
+# 2018 R-Ladies Taipei Kaggle
