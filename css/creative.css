@@ -330,3 +330,23 @@ header.masthead p {
   color:#000;
   border-radius: 5px;
 }
+
+#contact a:hover{
+  opacity: 0.7;
+}
+
+#contact a{
+  color: white;
+}
+
+.sp-icons{
+  background-color: #fff;
+  min-width: 150px;
+  min-height: 150px;
+  max-width: 150px;
+  max-height: 150px;
+}
+
+.sp-icons img{
+  margin: 0;
+}
